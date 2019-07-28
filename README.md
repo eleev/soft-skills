@@ -100,4 +100,4 @@ Please note that this is not the ultimate guideline about soft skills. If you fe
 [Astemir Eleev](https://github.com/jVirus)
 
 # 🔖 Licence 
-The project is available under [MIT Licence](https://github.com/jVirus/collection-flow-layout-ios/blob/master/LICENSE)
+The project is available under [MIT Licence](https://github.com/jVirus/soft-skills/blob/master/LICENSE)
