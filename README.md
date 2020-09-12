@@ -4,7 +4,7 @@
 [![Language](https://img.shields.io/badge/language-any-orange.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
 
-**Last Update: 20/November/2019.**
+**Last Update: 12/September/2020.**
 
 ![](cover.png)
 
@@ -21,9 +21,9 @@ The the following skills will make you a better engineer/developer as well as gr
 
 ## 💪 Responsibility 
 - An ability to formalize the exact task that you work on. An ability to answer to the following questions:
- - `Why am I working on at this particular task?`
- - `Why this particular task is that important right now?`
-- An ability to evaluate deadlines for current and dependent tasks.
+  - `Why am I working on at this particular task?`
+  - `Why this particular task is that important right now?`
+- An ability to evaluate deadlines for current and dependent tasks
  - Being able to execute tasks before the deadline that was set or promised, without reminders and awkward conversations on both sides
 - An ability to report/notify about various issues that your team needs to be aware of
 - Remember, your team counts on you. If you feel like you need some help, that's absolutely normal - simply ask
@@ -32,9 +32,9 @@ The the following skills will make you a better engineer/developer as well as gr
 ## 🍱 Being Organized
 - Make your own schedule when you feel you'r most productive
 - Don't delay the most challenging or annoying tasks: it's better to get "rid" of them as soon as possible:
-  - Solving the most challenging tasks first, will give you a positive vibe, rather than draining your physchological energy.
+  - Solving the most challenging tasks first, will give you a positive vibe, rather than draining your physchological energy
 - Take care of yourself:
-  - If you feel healthy and happy, then you'r work will reflect that as well 
+  - If you feel healthy and happy, then your work will reflect that as well 
   - Sleep enough and make that consistent
   - Eat regularly and drink a lot of water
   - Find time to exercize. Even having 20 minutes excersizes everyday will make you more energized and healthier. Remember, you don’t need hours of excersizes to be healthy and look good. Consistency and discipline is more important here as well
@@ -50,8 +50,8 @@ The the following skills will make you a better engineer/developer as well as gr
  - There are numerous tutorials, articles, guides, books, podcasts, open source projects and other materials that are valuable sources of knowledge
  - Remember: the lack of experince can be partially fulfilled by knowledge. The more you know, the easier for you to pick up something new and dive in, even without remembering specifics
 - Make it your daily routine:
-  - Have a list of learning materials that you need to learn. 
-  - Be disciplined and invest time and energy to educate yourself, everyday by a bit.
+  - Have a list of learning materials that you need to learn 
+  - Be disciplined and invest time and energy to educate yourself, everyday by a bit
 - Have your own projects:
   - You personal, private projects may develop slow, but one day you possible be able to monetize them, or possibly create your own company
 
