@@ -11,13 +11,13 @@
 ### If you like the project, please give it a star ⭐ It will show the creator your appreciation and help others to discover the repo.
 
 # ✍️ About
-The guide contains various soft skills that are usually (but not mandatory) required for various software engineering positions, and that are independent on:
+The guide contains various soft skills that are usually (but not mandatory) required for various software engineering positions, and that is independent of:
 
 - Knowledge of a particular programming language and/or software technology 
 - Experience working with a specific platform
 - Your age or any other attribute you can think of
 
-The the following skills will make you a better engineer/developer as well as greater person, that people want to work with (but doesn't guarantee 😄).
+The following skills will make you a better engineer/developer as well as greater person, that people want to work with (but doesn't guarantee 😄).
 
 ## 💪 Responsibility 
 - An ability to formalize the exact task that you work on. An ability to answer to the following questions:
@@ -32,12 +32,12 @@ The the following skills will make you a better engineer/developer as well as gr
 ## 🍱 Being Organized
 - Make your own schedule when you feel you'r most productive
 - Don't delay the most challenging or annoying tasks: it's better to get "rid" of them as soon as possible:
-  - Solving the most challenging tasks first, will give you a positive vibe, rather than draining your physchological energy
+  - Solving the most challenging tasks first, will give you a positive vibe, rather than draining your psychological energy
 - Take care of yourself:
   - If you feel healthy and happy, then your work will reflect that as well 
-  - Sleep enough and make that consistent
+  - Sleep enough and make that more consistent
   - Eat regularly and drink a lot of water
-  - Find time to exercize. Even having 20 minutes excersizes everyday will make you more energized and healthier. Remember, you don’t need hours of excersizes to be healthy and look good. Consistency and discipline is more important here as well
+  - Find time to exercise. Even having 20 minutes excersizes everyday will make you more energized and healthier. Remember, you don’t need hours of excersises to be healthy and look good. Consistency and discipline are more important here as well
 - Clean up your workspace:
   - What's the point in living in a mess? - Your workspace (both digital and physical) should be organized and minimal - don't keep outdated and unused things
   - Our work takes most of the time. Do you want to be surrounded by a mess most of your life?
@@ -48,19 +48,19 @@ The the following skills will make you a better engineer/developer as well as gr
 ## 🐵👶 Evolving
 - Always evolve:
  - There are numerous tutorials, articles, guides, books, podcasts, open source projects and other materials that are valuable sources of knowledge
- - Remember: the lack of experince can be partially fulfilled by knowledge. The more you know, the easier for you to pick up something new and dive in, even without remembering specifics
+ - Remember: the lack of experience can be partially fulfilled by knowledge. The more you know, the easier for you to pick up something new and dive in, even without remembering specifics
 - Make it your daily routine:
   - Have a list of learning materials that you need to learn 
   - Be disciplined and invest time and energy to educate yourself, everyday by a bit
 - Have your own projects:
-  - You personal, private projects may develop slow, but one day you possible be able to monetize them, or possibly create your own company
+  - You personal, private projects may develop slowly, but one day you possibly be able to monetize them, or possibly create your own company
 
 ## 🦹‍♂️🦹‍♀️ Teamwork
 - Know tools that your team uses
 - Don’t be afraid to communicate with your clients, even if those are inside your company
 - Be able to effectively collaborate in your group or team as well as with other grops or teams that have or may not have direct relation to your work 
 - Reflect on yourself and your work during the communication process with your teammates
-- Empathy. That what makes you a great human being and as a result a great professional
+- Empathy. That's what makes you a great human being and as a result a great professional
 
 ## 💡 Problem Solving
 - An ability to split big chunks of work:
@@ -74,9 +74,9 @@ The the following skills will make you a better engineer/developer as well as gr
 
 ## ⌨️ Programming
 - An ability to write understandable code that is can be easily understood
-- An ability to document your work with the standards that are canonical for you context or workplace
+- An ability to document your work with the standards that are canonical for your context or workplace
 - Being able to work with the code that was written by someone else
-    - An ability to perform code review, refactoring and optimization of existing code
+    - An ability to perform a code review, refactoring, and optimization of existing code
 - Unit and, if needed, UI test your code
 
 ## 🏗 Architecture
@@ -89,12 +89,12 @@ The the following skills will make you a better engineer/developer as well as gr
 ## 💼 Business
 - An ability to use various metrics as arguments
 - Willing to teach and mentor other people
-- Participation in hiring process, helping them out to adopt to a new work environment and culture
+- Participate in the hiring process, helping them out to adapt to a new work environment and culture
 - An ability to speak the same language with either developers or business-oriented people, ask appropriate questions, structure your thought process and give appropriate and contextual feedback
 - Being able to understand how business decisions affect the process of software development, prioritization of tasks and features
 
 # 🙋‍♂️🙋‍♀️Contributing
-Please note that this is not the ultimate guideline about soft skills. If you feel like there is something that can be added and/or chagned, please let me know.
+Please note that this is not the ultimate guideline about soft skills. If you feel like there is something that can be added and/or changed, please let me know.
 
 # 👨‍💻 Author
 [Astemir Eleev](https://github.com/jVirus)
