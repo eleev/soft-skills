@@ -4,8 +4,6 @@
 [![Language](https://img.shields.io/badge/language-any-orange.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
 
-**Last Update: 12/September/2020.**
-
 ![](cover.png)
 
 ### If you like the project, please give it a star ⭐ It will show the creator your appreciation and help others to discover the repo.
@@ -43,7 +41,7 @@ The following skills will make you a better engineer/developer as well as greate
   - Our work takes most of the time. Do you want to be surrounded by a mess most of your life?
 - Personal knowledge and code base should be also well organized. You should be able to find what you need with ease
 - Make frameworks and libraries for yourself:
-  - By organizing programming solution as reusable packages into different categories, you will build up your own framework collection and be able to reuse it and later safe a lot of time
+  - By organizing programming solution as reusable packages into different categories, you will build up your own framework collection and be able to reuse it and later save a lot of time
 
 ## 🐵👶 Evolving
 - Always evolve:
