@@ -71,11 +71,11 @@ The following skills will make you a better engineer/developer as well as greate
 - An ability to explain and formalize a problem - that is a half way in resolving it
 
 ## ⌨️ Programming
-- An ability to write understandable code that is can be easily understood
+- An ability to write understandable code that is maintainable and extendable
 - An ability to document your work with the standards that are canonical for your context or workplace
 - Being able to work with the code that was written by someone else
-    - An ability to perform a code review, refactoring, and optimization of existing code
-- Unit and, if needed, UI test your code
+    - An ability to perform a code review, refactoring and optimization of existing code
+- Unit and, if needed UI test your code
 
 ## 🏗 Architecture
 - An ability to dive in into a new technology in a quick and effective manner
